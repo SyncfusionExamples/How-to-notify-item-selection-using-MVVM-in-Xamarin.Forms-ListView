@@ -2,6 +2,8 @@
 
 This example demonstrates how to notify item selection using MVVM in Xamarin.Forms listview.
 
+See [How to notify item selection using MVVM in Xamarin.Forms ListView?](https://www.syncfusion.com/kb/9961/how-to-notify-item-selection-using-mvvm-in-xamarin-forms-listview) for more details.
+
 ## Requirements to run the demo
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
